@@ -1,0 +1,9 @@
+    {
+    	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ITshnik/test"
+        }
+    ],
+
+}
