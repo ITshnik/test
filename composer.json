@@ -1,9 +1,9 @@
     {
         
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "name": "itshnik/testgit",
+    "description": "The test project.",
+    "keywords": ["test", "git"],
+    "license": "none",
     "type": "project",
         
     	"repositories": [
